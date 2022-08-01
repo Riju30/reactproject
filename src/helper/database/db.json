@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "uname": "Riju",
+      "uemail": "r@gmail.com",
+      "upin": "7894561",
+      "uphone": "7894561209",
+      "upass": "r@1234",
+      "ucpass": "r@1234",
+      "id": 1
+    },
+    {
+      "uname": "Riju b",
+      "uemail": "r@g.com",
+      "upin": "1234567",
+      "uphone": "7894561230",
+      "upass": "r@123456",
+      "ucpass": "r@123456",
+      "id": 2
+    },
+    {
+      "uname": "Nipa",
+      "uemail": "n@g.com",
+      "upin": "1234567",
+      "uphone": "7894561230",
+      "upass": "n@123456",
+      "ucpass": "n@123456",
+      "id": 3
+    }
+  ]
+}

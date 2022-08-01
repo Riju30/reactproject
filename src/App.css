@@ -1,0 +1,8 @@
+.features-inner {
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+	padding: 40px 0;
+}
+.single-features {
+	text-align: center;
+	border-right: 1px solid #eeeeee;
+}
